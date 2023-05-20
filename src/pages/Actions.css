@@ -1,0 +1,29 @@
+.login-actions {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 20px;
+  max-width: 340px;
+  height: 500px;
+  background: #ffffff;
+  box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 9px;
+}
+.cta-btn {
+  border-radius: 5px;
+  min-height: 42px;
+  min-width: 272px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+.cta-img {
+  width: 50px;
+  padding: 0 9px;
+}
